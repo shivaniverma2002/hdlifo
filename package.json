@@ -1,0 +1,30 @@
+{
+  "name": "hodlinfo-quadbtech",
+  "version": "1.0.0",
+  "description": "Intern test project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git"
+    
+  },
+  "author": "Shivani Verma",
+  "license": "ISC",
+ 
+  
+  "dependencies": {
+    "axios": "^1.4.0",
+    "axois": "^0.0.1-security",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.21.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "mongoose": "^7.2.2",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
